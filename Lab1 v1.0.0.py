@@ -66,7 +66,7 @@ while True:
         arr1 = [1, 2, 3, 4, 5]
         arr2 = [4, 5, 6, 7, 8]
         result = merge_arrays(arr1, arr2)
-        print(result)  # [4, 5]
+        print(result)
     elif state == 2:
         print("Второе задание")
         print_professors(group)
